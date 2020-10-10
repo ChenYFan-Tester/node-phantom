@@ -1,4 +1,10 @@
 {
+  "scripts": {
+   "start": "node index.js" 
+  },
+  "engines": {
+    "node": "10.x"
+  },
   "devDependencies": {
     "phantomjs": "^2.1.1"
   },
@@ -23,11 +29,5 @@
   ],
   "author": "kim",
   "license": "ISC",
-  "description": "",
-  "scripts": {
-   "start": "node index.js" 
-  },
-  "engines": {
-    "node": "10.x"
-  },
+  "description": ""
 }
