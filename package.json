@@ -23,5 +23,11 @@
   ],
   "author": "kim",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "scripts": {
+   "start": "node index.js" 
+  },
+  "engines": {
+    "node": "10.x"
+  },
 }
